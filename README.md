@@ -21,21 +21,21 @@ Vanguard FTSE All-World UCITS ETF USD Accumulating. WKN: A2PKXG. ISIN: IE00BK5BQ
 - https://de.extraetf.com/etf-profile/IE00BK5BQT80
 
 ### A0HGV0
-iShares MSCI World UCITS ETF
+iShares MSCI World UCITS ETF. WKN: A0HGV0. ISIN: IE00B0M62Q58.
 - https://www.ishares.com/de/privatanleger/de/produkte/251881/ishares-msci-world-ucits-etf-inc-fund?switchLocale=y&siteEntryPassthrough=true
 
 ### A0RPWH
-iShares Core MSCI World UCITS ETF
+iShares Core MSCI World UCITS ETF. WKN: A0RPWH. ISIN: IE00B4L5Y983.
 - https://www.ishares.com/de/privatanleger/de/produkte/251882/ishares-msci-world-ucits-etf-acc-fund?switchLocale=y&siteEntryPassthrough=true
 
 ### A0HGWC
-iShares MSCI EM UCITS ETF USD (Dist)
+iShares MSCI EM UCITS ETF USD (Dist). WKN: A0HGWC. ISIN: IE00B0M63177.
 - https://www.ishares.com/de/privatanleger/de/produkte/251857/ishares-msci-emerging-markets-ucits-etf-inc-fund?switchLocale=y&siteEntryPassthrough=true
 
 ### A0RPWJ
-iShares MSCI EM UCITS ETF USD (Acc)
+iShares MSCI EM UCITS ETF USD (Acc). WKN: A0RPWJ. ISIN: IE00B4L5YC18.
 - https://www.ishares.com/de/privatanleger/de/produkte/251858/ishares-msci-emerging-markets-ucits-etf-acc-fund?switchLocale=y&siteEntryPassthrough=true
 
 ### A1JMDF
-iShares MSCI ACWI UCITS ETF
+iShares MSCI ACWI UCITS ETF. WKN: A1JMDF. ISIN: IE00B6R52259.
 - https://www.ishares.com/de/privatanleger/de/produkte/251850/ishares-msci-acwi-ucits-etf?switchLocale=y&siteEntryPassthrough=true
