@@ -22,25 +22,25 @@ Vanguard FTSE All-World UCITS ETF USD Accumulating. WKN: A2PKXG. ISIN: IE00BK5BQ
 
 ### A1JMDF
 iShares MSCI ACWI UCITS ETF USD Accumulating. WKN: A1JMDF. ISIN: IE00B6R52259.
-- https://www.comdirect.de/inf/aktien/detail/uebersicht.html?ID_NOTATION=164522155&ISIN=IE00B6R52259
+- https://www.comdirect.de/inf/etfs/detail/uebersicht.html?ID_NOTATION=164522155&ISIN=IE00B6R52259
 - https://www.ishares.com/de/privatanleger/de/produkte/251850/ishares-msci-acwi-ucits-etf?switchLocale=y&siteEntryPassthrough=true
 
 ### A0HGV0
 iShares MSCI World UCITS ETF USD Distributing. WKN: A0HGV0. ISIN: IE00B0M62Q58.
-- https://www.comdirect.de/inf/aktien/detail/uebersicht.html?ID_NOTATION=114715786&ISIN=IE00B0M62Q58
+- https://www.comdirect.de/inf/etfs/detail/uebersicht.html?ID_NOTATION=114715786&ISIN=IE00B0M62Q58
 - https://www.ishares.com/de/privatanleger/de/produkte/251881/ishares-msci-world-ucits-etf-inc-fund?switchLocale=y&siteEntryPassthrough=true
 
 ### A0RPWH
 iShares Core MSCI World UCITS ETF USD Accumulating. WKN: A0RPWH. ISIN: IE00B4L5Y983.
-- https://www.comdirect.de/inf/aktien/detail/uebersicht.html?ID_NOTATION=108344843&ISIN=IE00B4L5Y983
+- https://www.comdirect.de/inf/etfs/detail/uebersicht.html?ID_NOTATION=108344843&ISIN=IE00B4L5Y983
 - https://www.ishares.com/de/privatanleger/de/produkte/251882/ishares-msci-world-ucits-etf-acc-fund?switchLocale=y&siteEntryPassthrough=true
 
 ### A0HGWC
 iShares MSCI Emerging Markets EM UCITS ETF USD Distributing. WKN: A0HGWC. ISIN: IE00B0M63177.
-- https://www.comdirect.de/inf/aktien/detail/uebersicht.html?ID_NOTATION=115171495&ISIN=IE00B0M63177
+- https://www.comdirect.de/inf/etfs/detail/uebersicht.html?ID_NOTATION=115171495&ISIN=IE00B0M63177
 - https://www.ishares.com/de/privatanleger/de/produkte/251857/ishares-msci-emerging-markets-ucits-etf-inc-fund?switchLocale=y&siteEntryPassthrough=true
 
 ### A0RPWJ
 iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating. WKN: A0RPWJ. ISIN: IE00B4L5YC18.
-- https://www.comdirect.de/inf/aktien/detail/uebersicht.html?ID_NOTATION=163422993&ISIN=IE00B4L5YC18
+- https://www.comdirect.de/inf/etfs/detail/uebersicht.html?ID_NOTATION=163422993&ISIN=IE00B4L5YC18
 - https://www.ishares.com/de/privatanleger/de/produkte/251858/ishares-msci-emerging-markets-ucits-etf-acc-fund?switchLocale=y&siteEntryPassthrough=true
