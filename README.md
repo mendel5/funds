@@ -2,7 +2,7 @@
 Overview and links for Exchange-traded funds (ETFs)
 
 ## Overview
-Popular Exchange-traded funds
+Popular Exchange-traded funds in Germany.
 
 ### A1JX52
 Vanguard FTSE All-World UCITS ETF USD Distributing. WKN: A1JX52. ISIN: IE00B3RBWM25.
