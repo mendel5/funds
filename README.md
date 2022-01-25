@@ -20,6 +20,10 @@ Vanguard FTSE All-World UCITS ETF USD Accumulating. WKN: A2PKXG. ISIN: IE00BK5BQ
 - https://www.justetf.com/de/etf-profile.html?isin=IE00BK5BQT80
 - https://de.extraetf.com/etf-profile/IE00BK5BQT80
 
+### A1JMDF
+iShares MSCI ACWI UCITS ETF USD Accumulating. WKN: A1JMDF. ISIN: IE00B6R52259.
+- https://www.ishares.com/de/privatanleger/de/produkte/251850/ishares-msci-acwi-ucits-etf?switchLocale=y&siteEntryPassthrough=true
+
 ### A0HGV0
 iShares MSCI World UCITS ETF USD Distributing. WKN: A0HGV0. ISIN: IE00B0M62Q58.
 - https://www.ishares.com/de/privatanleger/de/produkte/251881/ishares-msci-world-ucits-etf-inc-fund?switchLocale=y&siteEntryPassthrough=true
@@ -35,7 +39,3 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Distributing. WKN: A0HGWC. ISIN: 
 ### A0RPWJ
 iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating. WKN: A0RPWJ. ISIN: IE00B4L5YC18.
 - https://www.ishares.com/de/privatanleger/de/produkte/251858/ishares-msci-emerging-markets-ucits-etf-acc-fund?switchLocale=y&siteEntryPassthrough=true
-
-### A1JMDF
-iShares MSCI ACWI UCITS ETF USD Accumulating. WKN: A1JMDF. ISIN: IE00B6R52259.
-- https://www.ishares.com/de/privatanleger/de/produkte/251850/ishares-msci-acwi-ucits-etf?switchLocale=y&siteEntryPassthrough=true
