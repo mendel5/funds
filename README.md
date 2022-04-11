@@ -1,7 +1,7 @@
 # funds
 Overview and links for Exchange-traded funds (ETFs)
 
-## Other
+## Intro
 - https://www.godmode-trader.de
 
 ## Overview
