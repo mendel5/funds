@@ -54,3 +54,6 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating. WKN: A0RPWJ. ISIN: 
 - https://www.weltsparen.de/festgeld/vergleich/3-monate Fixed-term deposits, 3 months / Festgeld, 3 Monate
 - https://www.weltsparen.de/festgeld/vergleich/6-monate Fixed-term deposits, 6 months / Festgeld, 6 Monate
 - https://www.weltsparen.de/festgeld/vergleich/1-jahr Fixed-term deposits, 1 year / Festgeld, 1 Jahr
+- https://www.weltsparen.de/geldanlage/deutschland/
+- https://www.weltsparen.de/bank/peac-bank/
+- https://www.weltsparen.de/bank/bankhaus-obotritia/
