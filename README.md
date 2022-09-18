@@ -61,3 +61,6 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating. WKN: A0RPWJ. ISIN: 
 ### Zinspilot
 - https://www.zinspilot.de/tagesgeld
 - https://www.zinspilot.de/festgeld
+- https://www.zinspilot.de/festgeld/3-monate
+- https://www.zinspilot.de/festgeld/6-monate
+- https://www.zinspilot.de/festgeld/9-monate
