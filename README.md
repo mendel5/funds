@@ -1,8 +1,9 @@
 # funds
 Overview and links for Exchange-traded funds (ETFs)
 
-## Intro
+## Info
 - https://www.godmode-trader.de
+- https://www.comdirect.de/inf/maerkte/zinsuebersicht.html
 
 ## Overview
 Popular Exchange-traded funds in Germany.
