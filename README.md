@@ -49,14 +49,14 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating. WKN: A0RPWJ. ISIN: 
 - https://www.ishares.com/de/privatanleger/de/produkte/251858/ishares-msci-emerging-markets-ucits-etf-acc-fund?switchLocale=y&siteEntryPassthrough=true
 
 ### Weltsparen
-- https://www.weltsparen.de/tagesgeld Overnight deposits / Tagesgeld
-- https://www.weltsparen.de/festgeld Fixed-term deposits / Festgeld
-- https://www.weltsparen.de/festgeld/vergleich/3-monate Fixed-term deposits, 3 months / Festgeld, 3 Monate
-- https://www.weltsparen.de/festgeld/vergleich/6-monate Fixed-term deposits, 6 months / Festgeld, 6 Monate
-- https://www.weltsparen.de/festgeld/vergleich/1-jahr Fixed-term deposits, 1 year / Festgeld, 1 Jahr
-- https://www.weltsparen.de/geldanlage/deutschland/
-- https://www.weltsparen.de/bank/peac-bank/
-- https://www.weltsparen.de/bank/bankhaus-obotritia/
+- https://www.weltsparen.de/tagesgeld
+- https://www.weltsparen.de/festgeld
+- https://www.weltsparen.de/festgeld/vergleich/3-monate
+- https://www.weltsparen.de/festgeld/vergleich/6-monate
+- https://www.weltsparen.de/festgeld/vergleich/1-jahr
+- https://www.weltsparen.de/geldanlage/deutschland
+- https://www.weltsparen.de/bank/peac-bank
+- https://www.weltsparen.de/bank/bankhaus-obotritia
 
 ### Zinspilot
 - https://www.zinspilot.de/tagesgeld
