@@ -58,6 +58,7 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating. WKN: A0RPWJ. ISIN: 
 - https://www.weltsparen.de/geldanlage/deutschland
 - https://www.weltsparen.de/bank/peac-bank
 - https://www.weltsparen.de/bank/bankhaus-obotritia
+- https://www.weltsparen.de/geldanlage/frankreich
 
 ### Zinspilot
 - https://www.zinspilot.de/tagesgeld
