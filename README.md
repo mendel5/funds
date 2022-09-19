@@ -55,10 +55,13 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating. WKN: A0RPWJ. ISIN: 
 - https://www.weltsparen.de/festgeld/vergleich/3-monate
 - https://www.weltsparen.de/festgeld/vergleich/6-monate
 - https://www.weltsparen.de/festgeld/vergleich/1-jahr
+- /
 - https://www.weltsparen.de/geldanlage/deutschland
+- https://www.weltsparen.de/geldanlage/frankreich
+- /
 - https://www.weltsparen.de/bank/peac-bank
 - https://www.weltsparen.de/bank/bankhaus-obotritia
-- https://www.weltsparen.de/geldanlage/frankreich
+
 
 ### Zinspilot
 - https://www.zinspilot.de/tagesgeld
@@ -66,6 +69,7 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating. WKN: A0RPWJ. ISIN: 
 - https://www.zinspilot.de/festgeld/3-monate
 - https://www.zinspilot.de/festgeld/6-monate
 - https://www.zinspilot.de/festgeld/9-monate
+- https://www.zinspilot.de/festgeld/1-jahr
 
 ### Einlagensicherung Länder Europa
 - Generelle Empfehlungen: Deutschland, Frankreich, Österreich, Niederlande. Luxemburg, Finnland.
