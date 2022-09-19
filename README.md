@@ -68,7 +68,7 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating. WKN: A0RPWJ. ISIN: 
 - https://www.zinspilot.de/festgeld/9-monate
 
 ### Einlagensicherung Länder Europa
-- Generelle Empfehlungen: Deutschland, Frankreich, Österreich, Luxemburg, Niederlande, Finnland
+- Generelle Empfehlungen: Deutschland, Frankreich, Österreich, Niederlande. Luxemburg, Finnland.
 - https://www.finanztip.de/sichere-banken/#c28753
 - https://www.finanztip.de/sichere-banken/einlagensicherung/#c19441
 - https://www.test.de/Einlagensicherung-Wo-Spargeld-in-Europa-gut-gesichert-ist-5757592-0/
