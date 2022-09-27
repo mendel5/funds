@@ -75,6 +75,12 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating. WKN: A0RPWJ. ISIN: 
 - https://www.finanztip.de/sichere-banken/#c28753
 - https://www.finanztip.de/sichere-banken/einlagensicherung/#c19441
 - https://www.test.de/Einlagensicherung-Wo-Spargeld-in-Europa-gut-gesichert-ist-5757592-0/
+- Österreich
+  - https://www.einlagensicherung.at/einlagen.php
+  - https://www.oenb.at/FAQ/Finanzmarktstabilitaet/Einlagensicherung.html
+- Frankreich
+  - https://www.garantiedesdepots.fr/de/schutz-ihrer-einlage-bei-insolvenz-ihrer-bank
+  - https://www.garantiedesdepots.fr/en/discover-my-guarantees
 
 ### Sonstiges
 - https://www.zinsen-berechnen.de/tagesgeldrechner.php
