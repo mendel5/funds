@@ -69,6 +69,7 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating. WKN: A0RPWJ. ISIN: 
 - https://www.zinspilot.de/festgeld/6-monate
 - https://www.zinspilot.de/festgeld/9-monate
 - https://www.zinspilot.de/festgeld/1-jahr
+- https://www.zinspilot.de/informationen/aktuelle-produktinfos Einzahlungsstichtage
 
 ### Einlagensicherung Länder Europa
 - Generelle Empfehlungen: Deutschland, Frankreich, Österreich. Niederlande, Luxemburg, Finnland.
