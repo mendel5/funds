@@ -60,9 +60,17 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating (EUNM). WKN: A0RPWJ.
 ## Deposits
 
 ### Info
-- https://www.kritische-anleger.de/tagesgeld/vergleich
-- https://www.kritische-anleger.de/festgeld/vergleich
 - https://www.comdirect.de/inf/maerkte/zinsuebersicht.html
+- /
+- https://www.kritische-anleger.de/tagesgeld/vergleich
+- /
+- https://www.kritische-anleger.de/festgeld/vergleich
+- https://www.kritische-anleger.de/festgeld/vergleich/1-monat/
+- https://www.kritische-anleger.de/festgeld/vergleich/2-monate/
+- https://www.kritische-anleger.de/festgeld/vergleich/3-monate/
+- https://www.kritische-anleger.de/festgeld/vergleich/6-monate/
+- https://www.kritische-anleger.de/festgeld/vergleich/9-monate/
+- https://www.kritische-anleger.de/festgeld/vergleich/1-jahr/
 
 ### Weltsparen
 - https://www.weltsparen.de/tagesgeld
