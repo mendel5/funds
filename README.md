@@ -110,6 +110,10 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating (EUNM). WKN: A0RPWJ.
 - Frankreich
   - https://www.garantiedesdepots.fr/de/schutz-ihrer-einlage-bei-insolvenz-ihrer-bank
   - https://www.garantiedesdepots.fr/en/discover-my-guarantees
+- https://www.zinspilot.de/informationen/laenderrating-zinspilot-banken/
+- https://www.zinspilot.de/wissen/banken-ratings/standard-and-poors-rating/
+- https://www.kritische-anleger.de/banken-ratings/
+- https://www.tagesgeldvergleich.net/ratgeber/banken-ratings.html
 
 ### Sonstiges
 - https://www.zinsen-berechnen.de/tagesgeldrechner.php
