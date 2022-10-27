@@ -99,6 +99,7 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating (EUNM). WKN: A0RPWJ.
 - https://www.zinspilot.de/festgeld/1-jahr
 - /
 - https://www.zinspilot.de/informationen/aktuelle-produktinfos Einzahlungsstichtage
+- https://www.zinspilot.de/informationen/zinserhoehungen Zinserhöhungen
 
 ### Einlagensicherung Länder Europa
 - Generelle Empfehlungen: Deutschland, Frankreich, Österreich. Niederlande, Luxemburg, Finnland.
