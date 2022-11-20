@@ -88,6 +88,9 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating (EUNM). WKN: A0RPWJ.
 - /
 - https://www.weltsparen.de/bank/peac-bank
 - https://www.weltsparen.de/bank/bankhaus-obotritia
+- /
+- https://www.weltsparen.de/einlagensicherung/
+- https://www.weltsparen.de/steuern/
 
 ### Zinspilot
 - https://www.zinspilot.de/tagesgeld
@@ -99,7 +102,9 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating (EUNM). WKN: A0RPWJ.
 - https://www.zinspilot.de/festgeld/1-jahr
 - /
 - https://www.zinspilot.de/informationen/aktuelle-produktinfos Einzahlungsstichtage
-- https://www.zinspilot.de/informationen/zinserhoehungen Zinserhöhungen
+- https://www.zinspilot.de/informationen/zinserhoehungen
+- https://www.zinspilot.de/wissen/einlagensicherung/
+- https://www.zinspilot.de/informationen/steuern/
 
 ### Einlagensicherung Länder Europa
 - Generelle Empfehlungen: Deutschland, Frankreich, Österreich. Niederlande, Belgium, Luxemburg, Finnland.
