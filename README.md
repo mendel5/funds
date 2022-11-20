@@ -105,6 +105,7 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating (EUNM). WKN: A0RPWJ.
 - Generelle Empfehlungen: Deutschland, Frankreich, Österreich. Niederlande, Luxemburg, Finnland.
 - https://www.finanztip.de/sichere-banken/#c28753
 - https://www.finanztip.de/sichere-banken/einlagensicherung/#c19441
+- Finanztip-Empfehlungen: Dänemark (DKK), Deutschland (EUR), Luxemburg (EUR), Niederlande (EUR), Norwegen (NOK), Schweden (SEK), Finnland (EUR), Österreich (EUR), Frankreich (EUR)
 - https://www.test.de/Einlagensicherung-Wo-Spargeld-in-Europa-gut-gesichert-ist-5757592-0/
 - Österreich
   - https://www.einlagensicherung.at/einlagen.php
