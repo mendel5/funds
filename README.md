@@ -102,7 +102,7 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating (EUNM). WKN: A0RPWJ.
 - https://www.zinspilot.de/informationen/zinserhoehungen Zinserhöhungen
 
 ### Einlagensicherung Länder Europa
-- Generelle Empfehlungen: Deutschland, Frankreich, Österreich. Niederlande, Luxemburg, Finnland.
+- Generelle Empfehlungen: Deutschland, Frankreich, Österreich. Niederlande, Belgium, Luxemburg, Finnland.
 - https://www.finanztip.de/sichere-banken/#c28753
 - https://www.finanztip.de/sichere-banken/einlagensicherung/#c19441
 - Finanztip-Empfehlungen: Dänemark (DKK), Deutschland (EUR), Luxemburg (EUR), Niederlande (EUR), Norwegen (NOK), Schweden (SEK), Finnland (EUR), Österreich (EUR), Frankreich (EUR)
