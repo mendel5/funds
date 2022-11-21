@@ -107,8 +107,11 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating (EUNM). WKN: A0RPWJ.
 - https://www.zinspilot.de/informationen/steuern/
 
 ### Einlagensicherung Länder Europa
-- Generelle Empfehlungen 1: Deutschland, Frankreich (0% Quellensteuer).
-- Generelle Empfehlungen 2: Niederlande (0% Quellensteuer), Luxemburg (0% Quellensteuer), Finnland (0% Quellensteuer), Estland (0% Quellensteuer). Belgien (30% Quellensteuer, mittel), Österreich (25% Quellensteuer, kompliziert).
+- Übersicht:
+  - 1: Deutschland, Frankreich (0% Quellensteuer).
+  - 2: Niederlande (0% Quellensteuer), Luxemburg (0% Quellensteuer), Finnland (0% Quellensteuer).
+  - 3: Estland (0% Quellensteuer).
+  - 4: Belgien (30% Quellensteuer, mittel), Österreich (25% Quellensteuer, kompliziert).
 - https://www.finanztip.de/sichere-banken/#c28753
 - https://www.finanztip.de/sichere-banken/einlagensicherung/#c19441
 - Finanztip-Empfehlungen: Dänemark (DKK), Deutschland (EUR), Luxemburg (EUR), Niederlande (EUR), Norwegen (NOK), Schweden (SEK), Finnland (EUR), Österreich (EUR), Frankreich (EUR)
