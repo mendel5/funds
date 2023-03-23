@@ -134,3 +134,7 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating (EUNM). WKN: A0RPWJ.
 
 ### Sonstiges
 - https://www.zinsen-berechnen.de/tagesgeldrechner.php
+
+## New
+- https://www.de.vanguard/de/fonds-etfs/fondsliste/alle-fonds
+- https://www.de.vanguard/de/fonds-etfs/9505/vanguard-ftse-all-world-ucits-etf-usd-distributing
