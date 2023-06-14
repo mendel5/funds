@@ -79,13 +79,16 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating (EUNM). WKN: A0RPWJ.
 ### Sonstiges
 - https://www.de.vanguard/de/fonds-etfs/fondsliste/alle-fonds
 
+---
+
 ## Deposits
 
 ### Info
 - https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html
 - https://www.euribor-rates.eu/de/
 - https://www.comdirect.de/inf/maerkte/zinsuebersicht.html
-- /
+
+### Kritische Anleger
 - https://www.kritische-anleger.de/tagesgeld/vergleich
 - /
 - https://www.kritische-anleger.de/festgeld/vergleich
