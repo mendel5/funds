@@ -1,6 +1,19 @@
 # funds
 Overview and links about investments.
 
+## Experimental
+### Geldmarktfonds / Money market funds
+- Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C ACC ETF. WKN: DBX0AN. ISIN: LU0290358497.
+- https://www.comdirect.de/inf/fonds/detail/uebersicht.html?ID_NOTATION=18271340&ISIN=LU0290358497
+- https://dbx0an.com/de
+- https://gerd-kommer.de/geldmarktfonds/
+- https://www.justetf.com/de/find-etf.html?assetClass=class-moneyMarket
+- https://www.justetf.com/de/find-etf.html?assetClass=class-moneyMarket&groupField=index&currency=EUR
+
+### Bonds
+- Short-term government bonds in EUR
+- https://www.justetf.com/de/find-etf.html?assetClass=class-bonds&groupField=none&currency=EUR&bondType=Government&sortField=fundSize&sortOrder=desc&bm=0-3
+
 ## ETFs
 Popular Exchange-traded funds (ETFs) in Germany.
 
