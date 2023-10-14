@@ -2,7 +2,7 @@
 Overview and links about investments.
 
 ## Experimental
-### Geldmarktfonds / Money market funds
+### Money market funds / Geldmarktfonds
 - Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C ACC ETF. WKN: DBX0AN. ISIN: LU0290358497.
 - https://www.comdirect.de/inf/fonds/detail/uebersicht.html?ID_NOTATION=18271340&ISIN=LU0290358497
 - https://dbx0an.com/de
