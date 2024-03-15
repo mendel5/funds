@@ -21,7 +21,7 @@ Overview and links about investments.
 
 #### DBX0AN
 Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C ACC ETF. WKN: DBX0AN. ISIN: LU0290358497.
-- https://www.comdirect.de/inf/fonds/detail/uebersicht.html?ID_NOTATION=18271340&ISIN=LU0290358497
+- https://www.comdirect.de/inf/etfs/detail/uebersicht.html?ID_NOTATION=18271340&ISIN=LU0290358497
 - https://dbx0an.com/de
 - https://www.justetf.com/de/etf-profile.html?isin=LU0290358497
 - https://extraetf.com/de/etf-profile/LU0290358497
@@ -115,7 +115,7 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating (EUNM). WKN: A0RPWJ.
 ## Deposits
 
 ### Info
-- https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html
+- https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html ECB EZB
 - https://www.euribor-rates.eu/de/
 - https://www.comdirect.de/inf/maerkte/zinsuebersicht.html
 
