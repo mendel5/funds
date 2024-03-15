@@ -1,18 +1,36 @@
 # funds
 Overview and links about investments.
 
+---
+
 ## Experimental
+
+### Trading hours
+- https://www.tradinghours.com/
+- https://www.tradinghours.com/open
+- https://www.tradinghours.com/markets/nyse
+- https://www.tradinghours.com/markets/nasdaq
+- https://www.tradinghours.com/markets/lse
+- https://www.tradinghours.com/markets/xetr XETRA
+- https://www.tradinghours.com/markets/xmun Munich
+
 ### Money market funds / Geldmarktfonds
-- Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C ACC ETF. WKN: DBX0AN. ISIN: LU0290358497.
-- https://www.comdirect.de/inf/fonds/detail/uebersicht.html?ID_NOTATION=18271340&ISIN=LU0290358497
-- https://dbx0an.com/de
 - https://gerd-kommer.de/geldmarktfonds/
 - https://www.justetf.com/de/find-etf.html?assetClass=class-moneyMarket
 - https://www.justetf.com/de/find-etf.html?assetClass=class-moneyMarket&groupField=index&currency=EUR
 
+#### DBX0AN
+Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C ACC ETF. WKN: DBX0AN. ISIN: LU0290358497.
+- https://www.comdirect.de/inf/fonds/detail/uebersicht.html?ID_NOTATION=18271340&ISIN=LU0290358497
+- https://dbx0an.com/de
+- https://www.justetf.com/de/etf-profile.html?isin=LU0290358497
+- https://extraetf.com/de/etf-profile/LU0290358497
+
 ### Bonds
 - Short-term government bonds in EUR
 - https://www.justetf.com/de/find-etf.html?assetClass=class-bonds&groupField=none&currency=EUR&bondType=Government&sortField=fundSize&sortOrder=desc&bm=0-3
+
+---
 
 ## ETFs
 Popular Exchange-traded funds (ETFs) in Germany.
@@ -113,9 +131,9 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating (EUNM). WKN: A0RPWJ.
 - https://www.kritische-anleger.de/festgeld/vergleich/1-jahr/
 
 ### Weltsparen
-- https://www.weltsparen.de/tagesgeld
+- https://www.weltsparen.de/tagesgeld/
 - /
-- https://www.weltsparen.de/festgeld
+- https://www.weltsparen.de/festgeld/
 - https://www.weltsparen.de/festgeld/vergleich/3-monate
 - https://www.weltsparen.de/festgeld/vergleich/6-monate
 - https://www.weltsparen.de/festgeld/vergleich/1-jahr
