@@ -1,5 +1,8 @@
 # funds
-Overview and links about investments.
+
+Overview and links for exchange-traded funds (ETFs) and other investments (e.g., deposits).
+
+Note: Some content is focused on Germany.
 
 ---
 
