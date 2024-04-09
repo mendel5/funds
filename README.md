@@ -25,7 +25,7 @@ Note: Some content is focused on Germany.
 #### DBX0AN
 Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C ACC ETF. WKN: DBX0AN. ISIN: LU0290358497.
 - https://www.comdirect.de/inf/etfs/detail/uebersicht.html?ID_NOTATION=18271340&ISIN=LU0290358497
-- https://www.onvista.de/etf/handelsplaetze/Xtrackers-II-EUR-Overnight-Rate-Swap-UCITS-ETF-1C-Acc-ETF-LU0290358497
+- https://www.onvista.de/etf/handelsplaetze/LU0290358497
 - https://dbx0an.com/de
 - https://www.justetf.com/de/etf-profile.html?isin=LU0290358497
 - https://extraetf.com/de/etf-profile/LU0290358497
@@ -50,6 +50,7 @@ Popular Exchange-traded funds (ETFs) in Germany.
 #### A1JX52
 Vanguard FTSE All-World UCITS ETF USD Distributing. WKN: A1JX52. ISIN: IE00B3RBWM25.
 - https://www.comdirect.de/inf/etfs/detail/uebersicht.html?ID_NOTATION=201301177&ISIN=IE00B3RBWM25
+- https://www.onvista.de/etf/handelsplaetze/IE00B3RBWM25
 - https://www.de.vanguard/professionell/produktart/etf/aktien/9505/ftse-all-world-ucits-etf-usd-distributing
 - https://www.de.vanguard/de/fonds-etfs/9505/vanguard-ftse-all-world-ucits-etf-usd-distributing
 - https://isin.toolforge.org/?language=de&isin=IE00B3RBWM25
@@ -59,6 +60,7 @@ Vanguard FTSE All-World UCITS ETF USD Distributing. WKN: A1JX52. ISIN: IE00B3RBW
 #### A2PKXG
 Vanguard FTSE All-World UCITS ETF USD Accumulating. WKN: A2PKXG. ISIN: IE00BK5BQT80.
 - https://www.comdirect.de/inf/etfs/detail/uebersicht.html?ID_NOTATION=262733170&ISIN=IE00BK5BQT80
+- https://www.onvista.de/etf/handelsplaetze/IE00BK5BQT80
 - https://www.de.vanguard/professionell/produktart/etf/aktien/9679/ftse-all-world-ucits-etf-usd-accumulating
 - https://www.de.vanguard/de/fonds-etfs/9679/vanguard-ftse-all-world-ucits-etf-usd-accumulating
 - https://isin.toolforge.org/?language=de&isin=IE00BK5BQT80
@@ -72,6 +74,7 @@ Vanguard FTSE All-World UCITS ETF USD Accumulating. WKN: A2PKXG. ISIN: IE00BK5BQ
 #### A1JMDF
 iShares MSCI ACWI UCITS ETF USD Accumulating (IUSQ). WKN: A1JMDF. ISIN: IE00B6R52259.
 - https://www.comdirect.de/inf/etfs/detail/uebersicht.html?ID_NOTATION=164522155&ISIN=IE00B6R52259
+- https://www.onvista.de/etf/handelsplaetze/IE00B6R52259
 - https://www.ishares.com/de/privatanleger/de/produkte/251850/ishares-msci-acwi-ucits-etf?switchLocale=y&siteEntryPassthrough=true
 - https://isin.toolforge.org/?language=de&isin=IE00B6R52259
 - https://www.justetf.com/de/etf-profile.html?isin=IE00B6R52259
@@ -80,6 +83,7 @@ iShares MSCI ACWI UCITS ETF USD Accumulating (IUSQ). WKN: A1JMDF. ISIN: IE00B6R5
 #### A0HGV0
 iShares MSCI World UCITS ETF USD Distributing (IQQW). WKN: A0HGV0. ISIN: IE00B0M62Q58.
 - https://www.comdirect.de/inf/etfs/detail/uebersicht.html?ID_NOTATION=114715786&ISIN=IE00B0M62Q58
+- https://www.onvista.de/etf/handelsplaetze/IE00B0M62Q58
 - https://www.ishares.com/de/privatanleger/de/produkte/251881/ishares-msci-world-ucits-etf-inc-fund?switchLocale=y&siteEntryPassthrough=true
 - https://isin.toolforge.org/?language=de&isin=IE00B0M62Q58
 - https://www.justetf.com/de/etf-profile.html?isin=IE00B0M62Q58
@@ -88,6 +92,7 @@ iShares MSCI World UCITS ETF USD Distributing (IQQW). WKN: A0HGV0. ISIN: IE00B0M
 #### A0RPWH
 iShares Core MSCI World UCITS ETF USD Accumulating (EUNL). WKN: A0RPWH. ISIN: IE00B4L5Y983.
 - https://www.comdirect.de/inf/etfs/detail/uebersicht.html?ID_NOTATION=108344843&ISIN=IE00B4L5Y983
+- https://www.onvista.de/etf/handelsplaetze/IE00B4L5Y983
 - https://www.ishares.com/de/privatanleger/de/produkte/251882/ishares-msci-world-ucits-etf-acc-fund?switchLocale=y&siteEntryPassthrough=true
 - https://isin.toolforge.org/?language=de&isin=IE00B4L5Y983
 - https://www.justetf.com/de/etf-profile.html?isin=IE00B4L5Y983
@@ -96,6 +101,7 @@ iShares Core MSCI World UCITS ETF USD Accumulating (EUNL). WKN: A0RPWH. ISIN: IE
 #### A0HGWC
 iShares MSCI Emerging Markets EM UCITS ETF USD Distributing (IQQE). WKN: A0HGWC. ISIN: IE00B0M63177.
 - https://www.comdirect.de/inf/etfs/detail/uebersicht.html?ID_NOTATION=115171495&ISIN=IE00B0M63177
+- https://www.onvista.de/etf/handelsplaetze/IE00B0M63177
 - https://www.ishares.com/de/privatanleger/de/produkte/251857/ishares-msci-emerging-markets-ucits-etf-inc-fund?switchLocale=y&siteEntryPassthrough=true
 - https://isin.toolforge.org/?language=de&isin=IE00B0M63177
 - https://www.justetf.com/de/etf-profile.html?isin=IE00B0M63177
@@ -104,6 +110,7 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Distributing (IQQE). WKN: A0HGWC.
 #### A0RPWJ
 iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating (EUNM). WKN: A0RPWJ. ISIN: IE00B4L5YC18.
 - https://www.comdirect.de/inf/etfs/detail/uebersicht.html?ID_NOTATION=163422993&ISIN=IE00B4L5YC18
+- https://www.onvista.de/etf/handelsplaetze/IE00B4L5YC18
 - https://www.ishares.com/de/privatanleger/de/produkte/251858/ishares-msci-emerging-markets-ucits-etf-acc-fund?switchLocale=y&siteEntryPassthrough=true
 - https://isin.toolforge.org/?language=de&isin=IE00B4L5YC18
 - https://www.justetf.com/de/etf-profile.html?isin=IE00B4L5YC18
