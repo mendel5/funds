@@ -15,6 +15,7 @@ Note: Some content is focused on Germany.
 - https://www.tradinghours.com/markets/nasdaq
 - https://www.tradinghours.com/markets/lse
 - https://www.tradinghours.com/markets/xetr XETRA
+- https://www.tradinghours.com/markets/fsx Frankfurt
 - https://www.tradinghours.com/markets/xmun Munich
 
 ### Money market funds / Geldmarktfonds
