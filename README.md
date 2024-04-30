@@ -35,6 +35,21 @@ Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C ACC ETF. WKN: DBX0AN. ISIN: LU
 - Short-term government bonds in EUR
 - https://www.justetf.com/de/find-etf.html?assetClass=class-bonds&groupField=none&currency=EUR&bondType=Government&sortField=fundSize&sortOrder=desc&bm=0-3
 
+### Gold
+- https://www.gold.de/kurse/goldpreis/
+- https://www.goldpreis.de/
+- https://www.wallstreet-online.de/rohstoffe/goldpreis
+- https://www.comdirect.de/inf/rohstoffe/goldpreis-XC0009655157
+
+### Silver
+- https://www.gold.de/kurse/silberpreis/
+- https://www.goldpreis.de/silberpreis/
+- https://www.wallstreet-online.de/rohstoffe/silberpreis
+- https://www.comdirect.de/inf/rohstoffe/silberpreis-XC0009653103
+
+### Crypto
+- https://coinmarketcap.com/
+
 ---
 
 ## ETFs
