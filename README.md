@@ -228,3 +228,5 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating (EUNM). WKN: A0RPWJ.
 
 ## Sonstiges
 - https://msw.flxn.de/tool/insider/ MSWerkzeug von Felix Stein
+- https://www.multpl.com/
+- https://www.multpl.com/shiller-pe
