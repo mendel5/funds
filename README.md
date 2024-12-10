@@ -143,7 +143,7 @@ iShares MSCI Emerging Markets EM UCITS ETF USD Accumulating (EUNM). WKN: A0RPWJ.
 ## Deposits
 
 ### Info
-- https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html ECB EZB
+- https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html ECB EZB, Deposit facility rate, Einlagefazilität, Einlagesatz
 - https://www.euribor-rates.eu/de/
 - https://www.comdirect.de/inf/maerkte/zinsuebersicht.html
 
