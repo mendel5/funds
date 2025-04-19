@@ -5,7 +5,7 @@ Overview and links for exchange-traded funds (ETFs) and other investments (e.g.,
 Note: Some content is focused on Germany.
 
 See also / Siehe auch:
-- https://github.com/mendel5/
+- https://github.com/mendel5/energy
 
 ---
 
