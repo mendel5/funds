@@ -54,6 +54,11 @@ Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C ACC ETF. WKN: DBX0AN. ISIN: LU
 ### Crypto
 - https://coinmarketcap.com/
 
+### Commodities
+- https://tradingeconomics.com/commodities
+- https://tradingeconomics.com/commodity/eu-natural-gas TTF EU Natural Gas
+- https://www.ice.com/products/27996665/Dutch-TTF-Natural-Gas-Futures/data?marketId=5878892&span=2
+
 ---
 
 ## ETFs
